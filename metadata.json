@@ -1,0 +1,5 @@
+{
+  "name": "ADAM AI",
+  "description": "An intelligent knowledge discovery platform powered by Gemini, ChatGPT, and Copilot, featuring interactive AI insights and visual generation.",
+  "requestFramePermissions": ["microphone"]
+}
